@@ -17,7 +17,7 @@ About the App
 About the App
 ---------------
 
-![Optimized-WhatsApp Image 2021-04-28 at 20 36 41 (1)](https://user-images.githubusercontent.com/79413577/116428574-ac8b3e00-a862-11eb-97e8-be5fc81be41f.jpeg)
+![image](https://user-images.githubusercontent.com/79413577/116429127-363b0b80-a863-11eb-8a1f-94a00d9dfd03.jpeg)
 
 
 
