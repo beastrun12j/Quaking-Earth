@@ -14,4 +14,10 @@ About the App
  * It fetches data from the USGS Earthquake API in realtime and displays the last 20 earthquakes in the world over the magnitude of 3.0.
  * The app also makes use of ListView which displays the list of earthquakes.
 
+About the App
+---------------
+
+![Optimized-WhatsApp Image 2021-04-28 at 20 36 41 (1)](https://user-images.githubusercontent.com/79413577/116428574-ac8b3e00-a862-11eb-97e8-be5fc81be41f.jpeg)
+
+
 
